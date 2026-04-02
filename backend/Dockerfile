@@ -7,6 +7,9 @@ FROM python:3.11-slim
 # Set working directory
 WORKDIR /app
 
+# Ensure Python can resolve the app package from /app
+ENV PYTHONPATH=/app
+
 # System dependencies for PyCaret / sklearn / matplotlib
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
@@ -21,8 +24,11 @@ RUN pip install --no-cache-dir --upgrade pip && \
 # Copy application code
 COPY . .
 
-# Create required directories
+# Create required directories (for ML model files, uploads, etc.)
 RUN mkdir -p uploads models reports sample_datasets chroma_db
+
+# Verify critical Python packages exist in the image
+RUN python -c "import app; import app.models; import app.config; print('✅ All app packages verified')"
 
 # Expose port
 EXPOSE 10000
