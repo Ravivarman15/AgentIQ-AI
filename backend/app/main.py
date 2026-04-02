@@ -7,7 +7,7 @@ Added /api global prefix for blueprint compliance.
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.config.settings import APP_TITLE, APP_VERSION, CORS_ORIGINS
+from app.config.settings import APP_TITLE, APP_VERSION, CORS_ORIGINS, CORS_ORIGIN_REGEX
 from app.config.env import validate_environment
 from app.models.database import init_db
 
@@ -41,10 +41,11 @@ def create_app() -> FastAPI:
         redoc_url="/redoc",
     )
 
-    # CORS middleware
+    # CORS middleware — exact origins + regex for wildcard patterns (e.g. *.vercel.app)
     application.add_middleware(
         CORSMiddleware,
         allow_origins=CORS_ORIGINS,
+        allow_origin_regex=CORS_ORIGIN_REGEX,
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],

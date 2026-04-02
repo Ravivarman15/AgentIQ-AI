@@ -19,10 +19,17 @@ DEBUG = os.getenv("DEBUG", "false").lower() == "true"
 # ═══════════════════════════════════════════════════════════════════════════════
 # CORS — Allowed Origins
 # ═══════════════════════════════════════════════════════════════════════════════
-CORS_ORIGINS = os.getenv(
+_raw_cors = os.getenv(
     "CORS_ORIGINS",
-    "http://localhost:3000,http://127.0.0.1:3000,https://*.vercel.app"
+    "http://localhost:3000,http://127.0.0.1:3000"
 ).split(",")
+
+# Separate exact origins from wildcard patterns
+CORS_ORIGINS = [o.strip() for o in _raw_cors if "*" not in o and o.strip()]
+
+# Build regex for wildcard entries (e.g. https://*.vercel.app)
+# Always include vercel.app pattern for deployment convenience
+CORS_ORIGIN_REGEX = r"https://.*\.vercel\.app"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # AUTHENTICATION (JWT)
