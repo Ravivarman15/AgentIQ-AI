@@ -30,7 +30,7 @@ wheels/
 
 # Project Specific Data (Ignore large/sensitive files)
 uploads/
-models/
+/models/
 reports/
 chroma_db/
 agentiq.db
