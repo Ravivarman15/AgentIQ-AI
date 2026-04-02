@@ -1,0 +1,48 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGENTIQ AI — Backend Dependencies
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# Core Framework
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+
+# Data Processing
+pandas
+numpy
+openpyxl
+
+# ML / AutoML
+scikit-learn
+pycaret
+joblib
+
+# LLM / LangChain
+langchain
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+langgraph
+huggingface_hub
+sentence-transformers
+
+# Database
+sqlalchemy
+psycopg2-binary
+supabase
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+pyjwt
+
+# Visualization & Reports
+matplotlib
+plotly
+python-pptx
+reportlab
+
+# Production
+gunicorn

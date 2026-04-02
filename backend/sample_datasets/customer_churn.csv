@@ -1,0 +1,1001 @@
+Customer_ID,Tenure,Monthly_Charges,Contract_Type,Support_Calls,Churn
+C2001,52,118.16,Month-to-month,6,Yes
+C2002,5,85.34,Two year,2,No
+C2003,8,117.73,Two year,10,Yes
+C2004,38,60.77,Two year,8,No
+C2005,41,110.74,Month-to-month,4,Yes
+C2006,19,89.43,One year,10,Yes
+C2007,70,81.68,Two year,10,No
+C2008,45,108.54,Two year,6,No
+C2009,39,26.6,Two year,5,No
+C2010,17,71.09,Two year,4,No
+C2011,66,74.28,Two year,5,No
+C2012,21,20.39,Two year,9,No
+C2013,39,92.1,Two year,1,No
+C2014,48,44.5,Two year,5,No
+C2015,16,63.77,Two year,0,No
+C2016,31,100.15,Two year,9,No
+C2017,69,104.14,Month-to-month,5,Yes
+C2018,18,90.86,Two year,3,No
+C2019,67,77.4,One year,7,No
+C2020,55,102.5,Month-to-month,1,Yes
+C2021,17,66.58,One year,1,No
+C2022,68,59.08,Two year,8,No
+C2023,34,77.6,Two year,6,No
+C2024,63,92.64,One year,2,No
+C2025,17,67.45,One year,2,No
+C2026,66,106.05,Month-to-month,3,No
+C2027,5,94.14,Two year,5,No
+C2028,16,79.36,One year,1,No
+C2029,38,22.11,Month-to-month,1,No
+C2030,48,48.93,One year,0,No
+C2031,19,97.95,One year,0,No
+C2032,40,108.68,Month-to-month,2,Yes
+C2033,63,18.21,Two year,5,No
+C2034,6,60.59,Two year,4,No
+C2035,44,97.7,One year,9,Yes
+C2036,18,69.49,One year,7,No
+C2037,20,106.37,One year,1,No
+C2038,53,57.5,One year,5,No
+C2039,57,93.06,Two year,1,No
+C2040,4,76.34,Two year,4,No
+C2041,16,83.68,Month-to-month,3,Yes
+C2042,70,76.84,Month-to-month,9,Yes
+C2043,61,69.27,Month-to-month,1,No
+C2044,69,36.33,Month-to-month,4,No
+C2045,32,102.63,Two year,7,Yes
+C2046,69,79.9,One year,9,No
+C2047,3,52.68,Month-to-month,6,Yes
+C2048,68,50.37,One year,1,No
+C2049,13,73.26,One year,2,No
+C2050,12,33.73,One year,10,Yes
+C2051,42,36.51,Two year,0,No
+C2052,13,50.64,One year,5,No
+C2053,16,23.29,Month-to-month,9,Yes
+C2054,64,69.88,Two year,6,No
+C2055,35,24.18,One year,8,No
+C2056,62,20.95,Two year,3,No
+C2057,3,45.45,Two year,10,Yes
+C2058,72,84.46,Month-to-month,4,No
+C2059,58,26.56,Two year,8,No
+C2060,19,56.08,Month-to-month,3,Yes
+C2061,55,116.06,Two year,7,No
+C2062,60,116.03,Two year,4,No
+C2063,22,18.06,One year,4,No
+C2064,49,119.92,Two year,3,No
+C2065,66,46.69,Month-to-month,8,No
+C2066,39,27.15,Two year,1,No
+C2067,72,119.88,One year,3,No
+C2068,41,108.16,One year,10,Yes
+C2069,58,45.85,Two year,5,No
+C2070,59,115.82,One year,0,No
+C2071,18,83.94,Month-to-month,9,Yes
+C2072,2,86.62,One year,8,Yes
+C2073,63,95.77,Two year,1,No
+C2074,10,72.94,Two year,7,No
+C2075,46,117.15,One year,9,Yes
+C2076,23,103.59,Two year,0,No
+C2077,48,113.5,One year,0,No
+C2078,3,95.36,Two year,5,Yes
+C2079,39,100.46,Month-to-month,3,No
+C2080,47,21.75,One year,9,No
+C2081,26,118.39,Two year,6,Yes
+C2082,36,76.05,One year,2,No
+C2083,23,24.67,Month-to-month,1,Yes
+C2084,30,107.86,Two year,4,No
+C2085,3,119.18,Two year,10,Yes
+C2086,33,87.43,One year,0,No
+C2087,7,105.09,One year,6,No
+C2088,53,45.95,Two year,8,No
+C2089,47,70.76,Month-to-month,3,Yes
+C2090,54,72.31,One year,0,No
+C2091,43,26.34,Two year,0,No
+C2092,29,117.77,One year,1,No
+C2093,26,34.78,One year,1,No
+C2094,13,20.84,One year,0,No
+C2095,43,103.73,Month-to-month,1,Yes
+C2096,44,102.92,One year,8,No
+C2097,10,97.13,Two year,7,No
+C2098,58,77.05,Month-to-month,0,No
+C2099,49,49.95,Two year,1,No
+C2100,8,111.75,One year,0,No
+C2101,56,24.71,Two year,0,No
+C2102,38,104.69,One year,1,No
+C2103,53,41.78,Two year,10,No
+C2104,59,57.16,One year,9,No
+C2105,44,84.39,Two year,0,No
+C2106,43,77.96,Month-to-month,1,Yes
+C2107,9,78.47,Month-to-month,9,Yes
+C2108,66,44.14,One year,7,No
+C2109,57,36.96,Month-to-month,0,No
+C2110,40,77.62,Two year,10,No
+C2111,40,77.53,Two year,2,No
+C2112,40,79.54,One year,5,No
+C2113,67,77.82,Two year,2,No
+C2114,65,101.56,Two year,0,No
+C2115,26,117.6,Two year,3,No
+C2116,44,37.31,One year,7,No
+C2117,43,104.9,Two year,5,No
+C2118,54,51.52,Month-to-month,7,No
+C2119,6,68.58,Month-to-month,10,Yes
+C2120,30,65.59,Month-to-month,3,Yes
+C2121,43,100.34,One year,3,No
+C2122,1,55.01,Month-to-month,5,Yes
+C2123,15,32.53,One year,3,No
+C2124,47,22.48,Month-to-month,3,No
+C2125,23,40.33,One year,2,No
+C2126,71,43.09,Month-to-month,0,No
+C2127,34,110.89,Month-to-month,10,Yes
+C2128,15,52.52,Month-to-month,4,Yes
+C2129,48,100.57,Two year,2,No
+C2130,56,107.6,Month-to-month,1,Yes
+C2131,17,99.08,Month-to-month,8,Yes
+C2132,48,50.43,One year,10,No
+C2133,6,95.83,Two year,3,No
+C2134,38,98.54,One year,3,No
+C2135,36,107.03,Two year,9,No
+C2136,27,92.18,One year,10,Yes
+C2137,22,69.88,Two year,8,No
+C2138,67,65.36,One year,5,No
+C2139,62,91.0,One year,7,No
+C2140,52,83.09,Two year,10,Yes
+C2141,29,109.28,One year,3,No
+C2142,40,61.35,One year,9,No
+C2143,48,43.96,Month-to-month,2,No
+C2144,38,63.34,One year,3,No
+C2145,60,70.25,One year,6,No
+C2146,56,59.71,One year,5,No
+C2147,4,36.32,Month-to-month,4,Yes
+C2148,46,109.95,One year,8,No
+C2149,11,98.16,Month-to-month,1,Yes
+C2150,47,21.9,Month-to-month,5,Yes
+C2151,43,43.5,Two year,10,No
+C2152,25,89.98,Month-to-month,8,Yes
+C2153,2,96.55,One year,5,No
+C2154,52,114.47,Two year,10,Yes
+C2155,66,118.91,Month-to-month,6,Yes
+C2156,27,66.39,Two year,9,No
+C2157,60,91.7,One year,5,No
+C2158,41,104.27,One year,6,No
+C2159,58,105.0,Month-to-month,5,Yes
+C2160,17,49.17,Two year,0,No
+C2161,46,52.66,One year,6,No
+C2162,52,95.81,Two year,8,No
+C2163,3,75.89,Month-to-month,2,Yes
+C2164,43,75.96,Two year,9,No
+C2165,51,117.98,Month-to-month,6,Yes
+C2166,50,37.21,Month-to-month,5,No
+C2167,58,83.18,One year,1,No
+C2168,71,36.12,Two year,9,No
+C2169,24,38.3,One year,4,No
+C2170,38,85.28,Month-to-month,7,Yes
+C2171,67,19.13,One year,6,No
+C2172,15,31.17,One year,7,No
+C2173,50,115.42,Month-to-month,2,No
+C2174,40,62.08,Two year,10,No
+C2175,40,77.92,Two year,10,No
+C2176,26,18.76,Month-to-month,7,Yes
+C2177,52,79.69,Month-to-month,8,Yes
+C2178,63,64.94,Two year,0,No
+C2179,37,83.92,One year,5,No
+C2180,39,57.89,Month-to-month,6,Yes
+C2181,56,64.7,Two year,2,No
+C2182,13,58.14,Month-to-month,3,Yes
+C2183,21,45.93,Two year,8,No
+C2184,9,89.2,Two year,3,No
+C2185,53,119.22,Two year,1,No
+C2186,10,95.05,Two year,5,Yes
+C2187,22,43.78,Two year,0,No
+C2188,10,83.16,Two year,7,Yes
+C2189,52,105.29,One year,0,No
+C2190,15,90.33,Month-to-month,5,Yes
+C2191,60,67.45,Month-to-month,1,No
+C2192,32,90.79,One year,2,No
+C2193,36,103.84,Month-to-month,0,Yes
+C2194,23,48.0,Two year,6,No
+C2195,2,87.09,Month-to-month,7,Yes
+C2196,28,90.87,Two year,8,Yes
+C2197,7,103.32,Two year,10,Yes
+C2198,14,57.84,One year,7,Yes
+C2199,1,22.96,One year,3,No
+C2200,48,110.69,Month-to-month,1,Yes
+C2201,4,118.91,One year,3,No
+C2202,9,40.5,Month-to-month,10,Yes
+C2203,22,22.49,Two year,1,No
+C2204,42,75.33,Month-to-month,9,Yes
+C2205,70,58.3,One year,1,No
+C2206,14,54.37,Month-to-month,0,Yes
+C2207,41,19.22,Month-to-month,7,Yes
+C2208,36,84.29,One year,0,No
+C2209,28,59.93,Two year,7,No
+C2210,14,90.68,Two year,2,No
+C2211,13,79.19,Two year,6,No
+C2212,18,51.87,Two year,5,No
+C2213,62,24.89,Month-to-month,9,No
+C2214,58,57.0,Two year,3,No
+C2215,2,41.73,Two year,1,No
+C2216,55,95.24,Two year,1,No
+C2217,48,68.87,Month-to-month,2,No
+C2218,5,42.28,Two year,9,No
+C2219,57,93.4,One year,2,No
+C2220,6,71.13,One year,10,Yes
+C2221,4,41.36,Two year,5,No
+C2222,27,73.01,Two year,3,No
+C2223,29,80.02,One year,8,No
+C2224,57,82.24,Month-to-month,7,Yes
+C2225,25,23.31,Month-to-month,3,Yes
+C2226,23,78.45,Month-to-month,3,Yes
+C2227,55,91.95,One year,2,No
+C2228,32,61.25,Two year,3,No
+C2229,58,116.71,Month-to-month,4,No
+C2230,62,26.16,One year,6,No
+C2231,61,63.02,Two year,9,No
+C2232,20,101.6,One year,0,No
+C2233,55,105.11,One year,9,No
+C2234,71,92.12,One year,6,No
+C2235,59,46.89,Two year,9,No
+C2236,43,31.94,One year,3,No
+C2237,25,18.43,Two year,5,No
+C2238,54,113.91,Two year,5,No
+C2239,40,83.39,Two year,1,No
+C2240,5,119.23,Month-to-month,6,Yes
+C2241,21,37.81,One year,4,No
+C2242,45,69.98,One year,10,No
+C2243,8,84.39,One year,3,No
+C2244,5,111.99,One year,10,Yes
+C2245,4,89.14,Two year,2,No
+C2246,59,114.32,Month-to-month,4,Yes
+C2247,21,19.26,Month-to-month,10,Yes
+C2248,50,58.56,Two year,1,No
+C2249,25,107.35,Month-to-month,6,Yes
+C2250,39,69.07,Two year,10,No
+C2251,40,92.86,Two year,1,No
+C2252,45,101.05,One year,3,No
+C2253,51,89.3,Month-to-month,2,No
+C2254,1,27.88,Two year,6,No
+C2255,37,92.77,Month-to-month,2,Yes
+C2256,18,38.2,Month-to-month,8,Yes
+C2257,58,75.84,Month-to-month,2,No
+C2258,24,100.54,Month-to-month,4,Yes
+C2259,53,62.95,Two year,1,No
+C2260,22,26.14,Month-to-month,6,Yes
+C2261,9,52.9,Two year,3,No
+C2262,13,18.97,One year,0,No
+C2263,6,27.88,Two year,0,No
+C2264,67,118.66,One year,7,No
+C2265,44,79.65,One year,5,No
+C2266,44,119.94,Month-to-month,5,Yes
+C2267,49,80.3,One year,5,No
+C2268,1,64.61,Two year,6,No
+C2269,18,20.62,Month-to-month,8,Yes
+C2270,32,55.58,Two year,10,No
+C2271,61,70.52,Two year,3,No
+C2272,42,19.7,One year,0,No
+C2273,42,87.15,Month-to-month,9,Yes
+C2274,11,53.53,One year,10,No
+C2275,13,92.9,One year,9,Yes
+C2276,19,106.73,Two year,8,Yes
+C2277,64,99.28,One year,10,No
+C2278,60,35.14,One year,1,No
+C2279,70,42.57,Month-to-month,2,No
+C2280,12,28.76,Two year,0,No
+C2281,42,110.07,One year,3,No
+C2282,61,115.05,Two year,1,No
+C2283,69,82.62,One year,1,No
+C2284,43,106.94,Two year,9,Yes
+C2285,44,56.46,Two year,6,No
+C2286,72,116.56,One year,3,No
+C2287,15,47.68,Month-to-month,1,Yes
+C2288,25,93.95,Month-to-month,9,Yes
+C2289,41,115.31,Two year,0,No
+C2290,69,37.37,One year,6,No
+C2291,47,99.35,Month-to-month,8,Yes
+C2292,29,28.87,Month-to-month,8,Yes
+C2293,41,32.76,One year,3,No
+C2294,59,33.04,One year,2,No
+C2295,5,79.09,One year,8,No
+C2296,16,45.89,Two year,9,No
+C2297,28,68.49,Two year,6,No
+C2298,43,33.58,Two year,3,No
+C2299,29,89.44,Month-to-month,2,Yes
+C2300,51,48.51,Two year,2,No
+C2301,71,58.01,One year,10,No
+C2302,45,95.29,One year,1,No
+C2303,37,46.8,Month-to-month,8,Yes
+C2304,17,50.99,Two year,0,No
+C2305,39,64.67,Month-to-month,9,Yes
+C2306,62,47.69,Month-to-month,3,No
+C2307,26,93.0,Month-to-month,5,Yes
+C2308,14,87.19,Month-to-month,6,Yes
+C2309,55,87.3,Month-to-month,0,No
+C2310,61,36.32,Month-to-month,1,No
+C2311,44,78.53,Month-to-month,10,Yes
+C2312,32,21.47,Month-to-month,6,Yes
+C2313,23,84.59,One year,10,Yes
+C2314,60,106.22,Two year,6,No
+C2315,57,55.47,Month-to-month,1,No
+C2316,63,83.42,Two year,3,No
+C2317,62,45.92,Two year,1,No
+C2318,24,57.16,Two year,6,No
+C2319,17,28.14,Month-to-month,8,Yes
+C2320,3,58.17,Two year,8,Yes
+C2321,67,103.39,Two year,10,No
+C2322,27,116.5,Month-to-month,2,Yes
+C2323,24,18.54,One year,5,No
+C2324,17,76.66,Two year,2,No
+C2325,33,104.85,Month-to-month,1,No
+C2326,65,48.45,Two year,2,No
+C2327,1,43.33,Month-to-month,8,Yes
+C2328,38,85.23,One year,2,No
+C2329,41,71.31,One year,9,No
+C2330,27,88.17,Two year,0,No
+C2331,25,32.45,Month-to-month,2,No
+C2332,28,78.36,One year,2,No
+C2333,55,25.58,One year,4,No
+C2334,21,58.81,Month-to-month,4,Yes
+C2335,19,72.66,Month-to-month,10,Yes
+C2336,25,90.87,Two year,10,Yes
+C2337,66,79.7,One year,2,No
+C2338,56,56.65,Two year,3,No
+C2339,16,72.21,Two year,8,Yes
+C2340,43,83.3,One year,5,No
+C2341,19,106.62,Month-to-month,4,Yes
+C2342,49,117.91,Month-to-month,6,Yes
+C2343,16,35.92,Two year,4,No
+C2344,63,27.75,One year,9,No
+C2345,71,45.65,Month-to-month,0,No
+C2346,50,36.43,Two year,10,No
+C2347,69,74.27,One year,7,No
+C2348,34,18.97,Two year,2,No
+C2349,19,56.64,Two year,4,No
+C2350,48,90.17,Month-to-month,10,Yes
+C2351,59,36.68,One year,7,No
+C2352,36,115.17,Two year,3,No
+C2353,12,114.64,One year,5,No
+C2354,11,25.82,Month-to-month,1,Yes
+C2355,8,26.63,One year,8,No
+C2356,2,116.14,One year,10,Yes
+C2357,18,66.92,Two year,10,No
+C2358,69,89.18,One year,0,No
+C2359,1,90.84,Two year,8,Yes
+C2360,32,119.41,Two year,8,No
+C2361,6,79.95,Month-to-month,10,Yes
+C2362,68,110.19,Month-to-month,1,No
+C2363,18,70.4,Month-to-month,6,Yes
+C2364,22,56.07,Month-to-month,5,Yes
+C2365,32,102.84,Month-to-month,4,Yes
+C2366,38,45.0,Month-to-month,10,Yes
+C2367,28,112.15,Two year,8,No
+C2368,5,113.41,Two year,7,Yes
+C2369,1,80.78,One year,4,Yes
+C2370,1,53.67,Two year,2,No
+C2371,2,28.34,One year,3,No
+C2372,66,109.65,One year,1,No
+C2373,1,33.87,Two year,4,No
+C2374,51,56.18,One year,6,No
+C2375,69,100.78,Month-to-month,7,Yes
+C2376,57,34.51,One year,6,No
+C2377,26,29.29,One year,0,No
+C2378,54,93.88,Month-to-month,2,No
+C2379,62,115.89,One year,1,No
+C2380,71,68.55,Two year,2,No
+C2381,52,69.19,Two year,6,No
+C2382,14,98.86,Month-to-month,2,Yes
+C2383,2,96.27,Month-to-month,0,Yes
+C2384,44,61.83,Two year,0,No
+C2385,38,46.79,Month-to-month,6,Yes
+C2386,20,92.38,Month-to-month,3,Yes
+C2387,15,106.15,Two year,3,No
+C2388,55,38.24,Two year,1,No
+C2389,65,80.33,Month-to-month,9,Yes
+C2390,20,41.4,Month-to-month,6,Yes
+C2391,25,112.77,One year,0,No
+C2392,12,106.16,One year,6,Yes
+C2393,30,40.62,One year,7,No
+C2394,55,83.68,One year,1,No
+C2395,36,114.19,Two year,6,No
+C2396,7,36.54,Month-to-month,0,No
+C2397,42,39.62,One year,4,No
+C2398,13,61.95,One year,7,Yes
+C2399,39,29.38,Two year,0,No
+C2400,17,51.78,Two year,5,No
+C2401,68,79.68,Month-to-month,10,Yes
+C2402,50,26.9,Month-to-month,2,No
+C2403,16,22.19,Two year,3,No
+C2404,58,112.4,Month-to-month,8,Yes
+C2405,39,91.99,Month-to-month,8,Yes
+C2406,6,31.04,One year,8,No
+C2407,72,117.46,One year,7,No
+C2408,16,110.91,Month-to-month,7,Yes
+C2409,65,98.67,Month-to-month,9,Yes
+C2410,17,47.54,Two year,0,No
+C2411,25,93.55,One year,7,No
+C2412,66,117.1,Month-to-month,7,Yes
+C2413,50,75.37,One year,6,No
+C2414,27,36.77,Month-to-month,9,Yes
+C2415,2,107.67,Two year,7,Yes
+C2416,68,44.4,Month-to-month,4,No
+C2417,71,30.15,Month-to-month,0,No
+C2418,38,21.99,Month-to-month,4,No
+C2419,35,107.09,Month-to-month,10,Yes
+C2420,27,72.53,Month-to-month,10,Yes
+C2421,48,51.11,Two year,8,No
+C2422,18,59.65,Two year,4,No
+C2423,8,81.85,Month-to-month,5,Yes
+C2424,36,36.03,Month-to-month,8,Yes
+C2425,14,91.71,Two year,6,No
+C2426,33,106.74,Two year,9,Yes
+C2427,57,40.51,One year,3,No
+C2428,51,33.88,Month-to-month,6,Yes
+C2429,62,27.56,Month-to-month,7,Yes
+C2430,23,37.26,One year,2,No
+C2431,3,49.64,Month-to-month,6,Yes
+C2432,25,25.08,Month-to-month,6,Yes
+C2433,52,28.22,Two year,2,No
+C2434,2,79.54,One year,6,Yes
+C2435,2,95.87,Two year,0,No
+C2436,11,45.3,Two year,9,Yes
+C2437,2,115.68,Month-to-month,8,Yes
+C2438,44,104.98,Month-to-month,3,Yes
+C2439,57,101.18,One year,5,No
+C2440,32,23.7,Two year,4,No
+C2441,16,20.16,Month-to-month,1,No
+C2442,14,70.18,One year,2,No
+C2443,29,20.45,One year,6,No
+C2444,37,41.04,Two year,6,No
+C2445,15,68.17,Month-to-month,3,Yes
+C2446,37,54.45,Two year,5,No
+C2447,11,109.35,Two year,2,Yes
+C2448,68,52.15,Month-to-month,10,Yes
+C2449,39,81.73,One year,5,No
+C2450,35,111.46,Two year,5,No
+C2451,10,98.46,Month-to-month,10,Yes
+C2452,19,57.84,Two year,7,No
+C2453,15,76.94,Two year,4,No
+C2454,42,119.47,Month-to-month,6,Yes
+C2455,64,61.23,Two year,6,No
+C2456,43,32.1,Two year,3,No
+C2457,71,68.7,Two year,7,No
+C2458,30,57.23,Two year,6,No
+C2459,29,89.72,Month-to-month,5,Yes
+C2460,3,54.96,One year,2,No
+C2461,8,110.96,One year,2,No
+C2462,19,103.2,Two year,6,Yes
+C2463,29,23.7,Month-to-month,1,No
+C2464,19,56.5,Month-to-month,6,Yes
+C2465,14,85.6,Month-to-month,7,Yes
+C2466,21,21.08,One year,2,No
+C2467,10,19.27,One year,2,No
+C2468,61,93.84,Two year,8,No
+C2469,39,65.96,Two year,5,No
+C2470,2,47.25,Month-to-month,0,No
+C2471,5,79.63,Month-to-month,8,Yes
+C2472,51,102.93,Two year,7,No
+C2473,34,111.75,Two year,4,No
+C2474,55,113.01,One year,1,No
+C2475,17,93.8,One year,9,Yes
+C2476,51,36.74,Two year,8,No
+C2477,10,101.29,One year,7,Yes
+C2478,52,102.38,Month-to-month,0,No
+C2479,55,37.86,Month-to-month,1,No
+C2480,43,20.86,One year,2,No
+C2481,9,39.61,Month-to-month,4,Yes
+C2482,26,83.12,Month-to-month,3,Yes
+C2483,6,75.5,One year,0,No
+C2484,12,114.24,Month-to-month,5,Yes
+C2485,51,69.02,One year,6,No
+C2486,17,89.67,Month-to-month,5,Yes
+C2487,65,28.3,Month-to-month,0,No
+C2488,49,66.65,Month-to-month,4,Yes
+C2489,60,26.03,Two year,1,No
+C2490,30,108.21,Two year,10,Yes
+C2491,21,119.33,Two year,8,No
+C2492,67,112.88,One year,7,No
+C2493,44,47.67,Two year,6,No
+C2494,50,42.39,Two year,9,No
+C2495,20,75.82,One year,1,No
+C2496,19,96.16,One year,8,No
+C2497,12,68.89,One year,5,Yes
+C2498,38,34.47,One year,9,No
+C2499,12,25.26,Two year,7,No
+C2500,61,117.81,One year,10,No
+C2501,16,117.11,One year,0,No
+C2502,37,58.9,Two year,10,Yes
+C2503,47,70.27,Two year,5,No
+C2504,53,69.61,One year,10,No
+C2505,8,93.59,Month-to-month,8,Yes
+C2506,14,47.65,Month-to-month,9,Yes
+C2507,10,40.75,One year,10,Yes
+C2508,60,65.79,Two year,7,No
+C2509,24,92.64,One year,6,Yes
+C2510,43,24.58,One year,9,No
+C2511,61,29.66,One year,0,No
+C2512,61,32.84,Month-to-month,5,No
+C2513,49,24.36,One year,6,No
+C2514,28,23.52,Month-to-month,10,Yes
+C2515,33,82.84,Month-to-month,2,Yes
+C2516,52,26.33,Two year,7,No
+C2517,68,39.84,One year,2,No
+C2518,12,109.29,One year,5,No
+C2519,39,34.78,One year,6,No
+C2520,69,88.26,Month-to-month,6,Yes
+C2521,50,101.95,Two year,9,No
+C2522,19,51.02,Two year,5,No
+C2523,59,113.25,One year,5,No
+C2524,53,44.81,Two year,0,No
+C2525,17,82.7,Two year,9,Yes
+C2526,28,94.06,Month-to-month,6,Yes
+C2527,22,79.3,Month-to-month,5,Yes
+C2528,25,117.12,Two year,0,No
+C2529,47,19.65,One year,8,No
+C2530,16,89.33,Two year,7,Yes
+C2531,46,53.93,Two year,6,No
+C2532,43,29.56,Month-to-month,7,Yes
+C2533,23,74.38,Month-to-month,8,Yes
+C2534,37,104.2,Two year,10,Yes
+C2535,37,89.61,Month-to-month,1,No
+C2536,14,27.14,Month-to-month,9,Yes
+C2537,14,68.63,Two year,8,Yes
+C2538,57,69.34,Month-to-month,10,Yes
+C2539,54,39.61,One year,8,No
+C2540,26,105.35,Month-to-month,5,Yes
+C2541,60,60.12,Two year,6,No
+C2542,48,97.78,Two year,4,No
+C2543,34,49.35,One year,10,No
+C2544,54,21.33,Month-to-month,2,No
+C2545,67,101.64,Two year,5,No
+C2546,56,42.67,One year,3,No
+C2547,51,102.51,Two year,6,No
+C2548,50,117.69,Month-to-month,6,Yes
+C2549,67,34.16,Month-to-month,1,No
+C2550,17,69.43,Two year,9,No
+C2551,34,103.41,Month-to-month,5,Yes
+C2552,12,20.62,Month-to-month,10,Yes
+C2553,20,20.84,Two year,8,No
+C2554,11,76.32,Month-to-month,2,Yes
+C2555,46,37.03,Two year,3,No
+C2556,69,103.73,Two year,6,No
+C2557,7,46.05,Month-to-month,10,Yes
+C2558,14,29.32,Two year,1,No
+C2559,37,44.72,Month-to-month,1,Yes
+C2560,47,111.1,Month-to-month,6,Yes
+C2561,3,60.2,One year,10,Yes
+C2562,54,56.28,One year,10,No
+C2563,21,36.34,Month-to-month,2,No
+C2564,5,29.96,One year,5,No
+C2565,70,18.51,Two year,4,No
+C2566,25,79.82,Two year,0,No
+C2567,20,40.06,One year,1,No
+C2568,4,51.41,Month-to-month,1,Yes
+C2569,17,45.29,One year,3,No
+C2570,45,90.22,Two year,4,No
+C2571,64,62.48,One year,3,No
+C2572,26,88.08,Two year,4,No
+C2573,14,77.53,Two year,4,No
+C2574,27,115.28,One year,6,No
+C2575,55,78.83,One year,5,No
+C2576,50,61.79,Two year,5,No
+C2577,9,63.84,Month-to-month,8,Yes
+C2578,53,47.93,Two year,8,No
+C2579,4,29.69,One year,6,No
+C2580,46,43.02,Month-to-month,10,Yes
+C2581,19,97.51,Month-to-month,0,Yes
+C2582,2,91.11,Month-to-month,7,Yes
+C2583,42,109.67,Two year,1,No
+C2584,28,71.78,Month-to-month,8,Yes
+C2585,10,76.54,Two year,6,No
+C2586,56,50.41,One year,3,No
+C2587,64,68.86,One year,6,No
+C2588,58,35.46,One year,9,No
+C2589,3,47.07,Two year,9,No
+C2590,60,47.01,One year,0,No
+C2591,68,21.99,Two year,0,No
+C2592,13,102.64,One year,4,Yes
+C2593,45,58.84,Two year,5,No
+C2594,7,58.12,Two year,7,No
+C2595,16,103.99,Two year,1,No
+C2596,7,102.2,Month-to-month,1,Yes
+C2597,56,41.09,Month-to-month,3,No
+C2598,48,101.25,Two year,0,No
+C2599,7,44.49,Month-to-month,1,Yes
+C2600,39,25.65,One year,9,No
+C2601,49,45.53,Month-to-month,2,No
+C2602,16,30.88,Month-to-month,9,Yes
+C2603,53,82.96,Two year,1,No
+C2604,31,76.94,Two year,7,No
+C2605,42,96.81,One year,3,No
+C2606,38,90.56,One year,8,No
+C2607,32,85.27,Two year,3,No
+C2608,10,117.12,Month-to-month,3,Yes
+C2609,28,65.75,One year,3,No
+C2610,44,39.28,Two year,8,No
+C2611,41,95.57,One year,7,No
+C2612,65,28.78,Month-to-month,3,No
+C2613,50,117.46,Two year,8,No
+C2614,52,37.17,One year,6,No
+C2615,40,115.05,Two year,10,Yes
+C2616,60,107.37,Two year,1,No
+C2617,59,37.08,Month-to-month,7,No
+C2618,58,53.9,Month-to-month,8,Yes
+C2619,56,39.63,One year,8,No
+C2620,43,23.42,One year,5,No
+C2621,49,92.66,One year,3,No
+C2622,52,36.02,One year,8,No
+C2623,67,62.22,Two year,0,No
+C2624,15,40.4,Month-to-month,0,No
+C2625,31,24.72,Month-to-month,4,Yes
+C2626,52,57.97,Month-to-month,3,No
+C2627,35,68.51,Month-to-month,3,Yes
+C2628,37,90.0,One year,0,No
+C2629,65,110.59,Two year,7,No
+C2630,31,35.36,Two year,1,No
+C2631,43,109.79,Month-to-month,0,No
+C2632,55,52.07,Month-to-month,4,No
+C2633,22,87.28,Month-to-month,9,Yes
+C2634,61,77.48,One year,3,No
+C2635,6,101.53,Two year,10,Yes
+C2636,30,71.58,Month-to-month,2,No
+C2637,13,49.07,Two year,5,No
+C2638,45,118.96,One year,10,Yes
+C2639,47,64.79,One year,4,No
+C2640,67,97.0,Two year,7,No
+C2641,67,92.28,Month-to-month,2,No
+C2642,29,85.26,Month-to-month,5,Yes
+C2643,32,76.91,Two year,6,No
+C2644,12,37.77,One year,10,Yes
+C2645,36,107.47,Two year,8,No
+C2646,58,118.71,Two year,2,No
+C2647,45,108.58,One year,9,No
+C2648,36,49.55,Month-to-month,9,Yes
+C2649,44,103.09,Month-to-month,6,Yes
+C2650,45,47.42,Month-to-month,7,No
+C2651,19,65.56,Month-to-month,8,Yes
+C2652,72,85.76,One year,7,No
+C2653,38,19.59,Month-to-month,3,No
+C2654,16,23.43,One year,0,No
+C2655,1,23.09,Month-to-month,5,Yes
+C2656,65,85.86,Two year,2,No
+C2657,35,32.55,Two year,3,No
+C2658,11,47.66,Month-to-month,7,Yes
+C2659,32,100.79,Two year,6,No
+C2660,13,109.09,One year,9,Yes
+C2661,56,87.25,One year,9,No
+C2662,26,43.5,One year,8,No
+C2663,40,26.73,Two year,10,No
+C2664,24,56.35,One year,1,No
+C2665,57,88.8,Two year,10,No
+C2666,60,54.13,One year,6,No
+C2667,60,20.82,Two year,0,No
+C2668,54,27.02,Month-to-month,9,No
+C2669,32,77.19,One year,2,No
+C2670,38,23.46,One year,2,No
+C2671,1,65.21,Two year,7,No
+C2672,11,23.58,Two year,1,No
+C2673,13,101.84,Two year,7,Yes
+C2674,8,30.39,Two year,10,Yes
+C2675,7,89.56,Two year,2,No
+C2676,64,31.91,Two year,10,No
+C2677,39,82.08,Two year,0,No
+C2678,26,29.7,Month-to-month,2,No
+C2679,16,71.02,Month-to-month,3,Yes
+C2680,4,102.94,One year,6,Yes
+C2681,16,48.59,One year,2,No
+C2682,70,44.55,Two year,10,No
+C2683,16,62.1,Two year,0,No
+C2684,31,35.42,Two year,8,No
+C2685,62,47.58,Two year,1,No
+C2686,64,55.47,One year,6,No
+C2687,14,65.32,One year,2,No
+C2688,59,30.25,One year,0,No
+C2689,5,83.8,Two year,9,Yes
+C2690,46,116.21,One year,7,No
+C2691,21,54.49,Two year,3,No
+C2692,68,57.84,Month-to-month,2,No
+C2693,46,84.91,Two year,5,No
+C2694,18,46.39,Two year,4,No
+C2695,9,111.45,Two year,7,Yes
+C2696,61,79.8,Month-to-month,9,Yes
+C2697,65,97.09,Two year,4,No
+C2698,42,78.06,Two year,5,No
+C2699,52,24.89,Month-to-month,2,No
+C2700,14,68.94,Two year,7,Yes
+C2701,30,118.1,Two year,3,No
+C2702,23,92.27,One year,6,No
+C2703,8,80.41,Month-to-month,0,Yes
+C2704,10,63.04,One year,9,Yes
+C2705,4,112.2,One year,1,No
+C2706,49,31.59,Two year,9,No
+C2707,26,43.75,One year,10,Yes
+C2708,26,93.7,One year,8,No
+C2709,25,26.77,Month-to-month,10,Yes
+C2710,13,38.76,Month-to-month,0,Yes
+C2711,53,75.97,Month-to-month,5,Yes
+C2712,68,68.61,Month-to-month,9,No
+C2713,65,53.91,Two year,8,No
+C2714,9,62.77,Two year,6,No
+C2715,11,30.97,Two year,4,No
+C2716,64,41.52,Two year,8,No
+C2717,29,101.78,One year,4,No
+C2718,46,24.93,Month-to-month,4,Yes
+C2719,31,105.03,Two year,8,Yes
+C2720,8,73.69,Month-to-month,9,Yes
+C2721,34,84.63,Month-to-month,5,Yes
+C2722,26,52.12,Month-to-month,2,Yes
+C2723,43,112.27,Two year,0,No
+C2724,10,100.18,Two year,9,Yes
+C2725,5,53.28,Month-to-month,6,Yes
+C2726,11,108.53,One year,2,No
+C2727,6,28.61,One year,8,Yes
+C2728,45,62.01,One year,3,No
+C2729,8,20.69,Month-to-month,8,Yes
+C2730,49,87.56,Two year,0,No
+C2731,7,57.49,One year,2,No
+C2732,55,74.05,Month-to-month,7,Yes
+C2733,48,53.88,One year,6,No
+C2734,31,41.67,Two year,0,No
+C2735,69,75.94,Month-to-month,3,No
+C2736,10,23.78,One year,2,No
+C2737,41,53.67,Two year,3,No
+C2738,17,79.82,One year,10,Yes
+C2739,10,25.79,Two year,3,No
+C2740,46,109.56,Month-to-month,7,Yes
+C2741,47,97.58,One year,10,Yes
+C2742,35,50.52,Two year,8,No
+C2743,45,109.84,Two year,9,No
+C2744,11,38.76,Month-to-month,8,Yes
+C2745,71,39.5,One year,2,No
+C2746,31,89.23,Two year,7,No
+C2747,3,68.89,Month-to-month,4,Yes
+C2748,50,48.64,Month-to-month,0,No
+C2749,50,68.53,One year,6,No
+C2750,29,38.98,Month-to-month,10,Yes
+C2751,7,85.36,Month-to-month,8,Yes
+C2752,4,110.83,One year,4,No
+C2753,28,95.24,One year,9,Yes
+C2754,55,97.83,Two year,0,No
+C2755,71,57.59,Two year,10,No
+C2756,69,65.28,Two year,9,No
+C2757,34,34.58,One year,7,No
+C2758,31,31.45,Month-to-month,4,No
+C2759,36,26.72,Month-to-month,8,Yes
+C2760,51,21.94,One year,5,No
+C2761,33,97.81,Two year,0,No
+C2762,42,103.27,Month-to-month,7,Yes
+C2763,57,18.9,Month-to-month,5,No
+C2764,72,40.22,Month-to-month,9,No
+C2765,36,109.5,Two year,5,No
+C2766,57,36.34,One year,4,No
+C2767,17,41.2,Month-to-month,2,No
+C2768,7,41.73,Two year,0,No
+C2769,65,105.78,Two year,5,No
+C2770,30,24.2,Two year,4,No
+C2771,3,87.2,One year,8,Yes
+C2772,31,53.67,Month-to-month,8,Yes
+C2773,66,25.9,Month-to-month,5,No
+C2774,54,25.28,One year,4,No
+C2775,42,79.91,One year,5,No
+C2776,48,66.01,One year,9,No
+C2777,48,22.55,Month-to-month,9,Yes
+C2778,28,100.42,Two year,8,No
+C2779,45,113.87,One year,9,Yes
+C2780,20,56.87,Two year,1,No
+C2781,29,75.67,Two year,10,No
+C2782,54,72.97,Month-to-month,8,Yes
+C2783,61,85.24,Two year,7,No
+C2784,25,103.27,One year,3,No
+C2785,47,41.55,One year,1,No
+C2786,57,92.75,One year,5,No
+C2787,72,69.58,One year,10,No
+C2788,30,63.79,One year,3,No
+C2789,17,112.42,Month-to-month,6,Yes
+C2790,18,79.77,One year,5,No
+C2791,11,59.67,Two year,2,No
+C2792,26,109.79,One year,0,No
+C2793,54,44.86,Two year,7,No
+C2794,17,106.68,One year,0,No
+C2795,10,31.5,Two year,6,No
+C2796,46,31.0,Two year,8,No
+C2797,38,30.14,One year,9,No
+C2798,14,119.4,Month-to-month,1,Yes
+C2799,46,114.89,One year,10,Yes
+C2800,56,47.51,One year,2,No
+C2801,66,26.55,Month-to-month,9,No
+C2802,59,56.7,One year,2,No
+C2803,36,114.37,Month-to-month,3,Yes
+C2804,44,22.93,Two year,8,No
+C2805,55,47.1,One year,5,No
+C2806,19,22.28,Two year,3,No
+C2807,36,76.66,Two year,5,No
+C2808,37,34.89,One year,4,No
+C2809,29,108.31,One year,4,No
+C2810,14,112.3,Two year,4,Yes
+C2811,27,74.32,Two year,2,No
+C2812,6,115.91,Two year,8,Yes
+C2813,1,67.81,Month-to-month,5,Yes
+C2814,55,92.67,Two year,2,No
+C2815,38,111.64,Two year,1,No
+C2816,56,68.31,Month-to-month,2,No
+C2817,15,116.78,Month-to-month,3,Yes
+C2818,42,33.99,One year,4,No
+C2819,66,86.55,Month-to-month,5,No
+C2820,5,62.2,Two year,8,Yes
+C2821,72,85.44,Two year,0,No
+C2822,2,43.08,Two year,6,No
+C2823,29,86.68,One year,7,Yes
+C2824,24,92.82,One year,2,No
+C2825,12,114.98,Two year,3,Yes
+C2826,9,68.05,Two year,3,No
+C2827,5,60.65,One year,9,Yes
+C2828,31,83.05,One year,8,No
+C2829,24,107.54,Month-to-month,4,Yes
+C2830,63,99.27,One year,9,No
+C2831,62,48.13,Month-to-month,1,No
+C2832,37,60.8,One year,5,No
+C2833,55,29.81,One year,5,No
+C2834,45,89.09,Two year,2,No
+C2835,62,103.69,One year,9,No
+C2836,31,20.95,One year,8,No
+C2837,53,24.2,One year,4,No
+C2838,53,57.92,One year,6,No
+C2839,7,45.37,Two year,3,No
+C2840,6,49.47,One year,3,No
+C2841,22,72.67,Two year,1,No
+C2842,43,31.18,Two year,0,No
+C2843,3,99.85,Month-to-month,5,Yes
+C2844,71,24.47,Month-to-month,8,Yes
+C2845,69,38.24,Month-to-month,8,No
+C2846,30,47.6,Month-to-month,5,Yes
+C2847,28,74.4,Month-to-month,0,Yes
+C2848,3,95.02,Two year,1,No
+C2849,63,22.31,One year,4,No
+C2850,32,21.45,Two year,1,No
+C2851,49,84.84,Month-to-month,4,No
+C2852,10,25.54,Two year,6,No
+C2853,70,79.7,Month-to-month,1,No
+C2854,51,37.82,Two year,4,No
+C2855,55,70.26,Month-to-month,4,Yes
+C2856,26,28.17,Two year,9,No
+C2857,38,61.81,Month-to-month,6,Yes
+C2858,62,47.01,Two year,8,No
+C2859,49,19.76,One year,6,No
+C2860,70,90.89,One year,3,No
+C2861,4,58.53,Month-to-month,7,Yes
+C2862,14,83.57,One year,2,No
+C2863,11,27.73,Month-to-month,3,Yes
+C2864,63,78.53,Month-to-month,2,No
+C2865,61,71.39,Two year,3,No
+C2866,64,43.71,One year,5,No
+C2867,5,50.79,Two year,9,Yes
+C2868,1,45.35,Month-to-month,8,Yes
+C2869,70,68.98,Two year,3,No
+C2870,62,70.47,Two year,1,No
+C2871,55,89.32,One year,2,No
+C2872,21,71.03,Month-to-month,2,Yes
+C2873,15,21.98,One year,7,No
+C2874,68,67.69,Two year,8,No
+C2875,2,48.27,One year,4,No
+C2876,35,71.29,Two year,5,No
+C2877,22,32.43,Two year,10,Yes
+C2878,48,70.98,One year,7,No
+C2879,43,112.56,Two year,2,No
+C2880,61,19.0,One year,2,No
+C2881,9,119.32,Month-to-month,4,Yes
+C2882,26,88.79,Two year,7,No
+C2883,8,81.75,Two year,2,No
+C2884,72,108.1,One year,10,No
+C2885,25,46.01,One year,9,No
+C2886,48,81.7,One year,4,No
+C2887,26,25.9,Month-to-month,1,No
+C2888,36,36.19,Two year,1,No
+C2889,67,77.91,One year,5,No
+C2890,36,116.6,Two year,9,No
+C2891,61,39.35,Month-to-month,3,No
+C2892,12,112.81,Two year,2,Yes
+C2893,61,107.21,One year,1,No
+C2894,7,31.97,One year,6,No
+C2895,42,48.86,Month-to-month,3,No
+C2896,49,96.94,Two year,7,No
+C2897,67,50.33,Month-to-month,9,No
+C2898,22,114.44,One year,2,No
+C2899,72,63.05,Two year,4,No
+C2900,72,109.78,Two year,5,No
+C2901,47,105.25,Two year,5,No
+C2902,28,80.93,Month-to-month,6,Yes
+C2903,2,37.98,One year,8,Yes
+C2904,40,51.5,One year,4,No
+C2905,2,79.89,Month-to-month,10,Yes
+C2906,62,58.63,Two year,4,No
+C2907,8,117.06,Month-to-month,7,Yes
+C2908,59,68.01,One year,10,No
+C2909,14,21.9,Month-to-month,9,Yes
+C2910,20,89.98,Month-to-month,2,Yes
+C2911,16,23.72,Two year,0,No
+C2912,70,46.3,Month-to-month,10,Yes
+C2913,3,51.93,Two year,5,No
+C2914,22,110.38,Two year,5,No
+C2915,52,60.47,Two year,10,No
+C2916,25,102.15,Two year,2,No
+C2917,11,35.6,Month-to-month,4,Yes
+C2918,65,59.74,Two year,0,No
+C2919,72,53.77,One year,7,No
+C2920,12,75.75,One year,1,No
+C2921,12,36.62,Month-to-month,2,Yes
+C2922,3,96.21,Month-to-month,3,Yes
+C2923,59,26.29,Two year,3,No
+C2924,25,94.24,Two year,2,No
+C2925,49,90.0,Month-to-month,4,Yes
+C2926,41,60.23,Month-to-month,4,No
+C2927,23,117.89,One year,7,Yes
+C2928,63,54.23,One year,5,No
+C2929,67,63.87,Two year,10,No
+C2930,5,114.87,Two year,6,Yes
+C2931,27,119.36,One year,5,No
+C2932,37,39.16,Two year,8,No
+C2933,35,27.26,Month-to-month,4,Yes
+C2934,34,21.21,Month-to-month,8,Yes
+C2935,24,66.47,One year,9,Yes
+C2936,49,85.15,Month-to-month,5,Yes
+C2937,46,106.67,Month-to-month,2,Yes
+C2938,43,52.34,Month-to-month,2,No
+C2939,40,34.6,Two year,2,No
+C2940,57,100.54,One year,9,No
+C2941,56,92.56,One year,3,No
+C2942,48,79.3,One year,10,No
+C2943,6,117.02,Month-to-month,8,Yes
+C2944,55,96.96,Two year,6,No
+C2945,21,70.24,One year,9,No
+C2946,68,38.24,Two year,2,No
+C2947,43,98.43,Month-to-month,1,Yes
+C2948,19,99.75,One year,6,Yes
+C2949,1,85.18,Month-to-month,2,Yes
+C2950,11,36.83,Month-to-month,6,Yes
+C2951,32,33.72,Two year,5,No
+C2952,21,53.16,One year,8,No
+C2953,28,111.11,Two year,6,No
+C2954,32,95.83,Month-to-month,6,Yes
+C2955,18,58.79,One year,4,No
+C2956,55,78.89,Two year,1,No
+C2957,4,40.61,Two year,2,No
+C2958,48,54.95,Two year,0,No
+C2959,51,111.29,Two year,3,No
+C2960,25,22.51,One year,6,No
+C2961,50,84.71,One year,2,No
+C2962,50,86.88,One year,0,No
+C2963,54,36.31,One year,10,No
+C2964,14,65.42,Month-to-month,5,Yes
+C2965,13,84.9,One year,0,No
+C2966,17,76.62,One year,10,Yes
+C2967,63,84.69,Two year,6,No
+C2968,7,48.9,One year,10,Yes
+C2969,58,69.21,One year,5,No
+C2970,47,29.39,Month-to-month,6,No
+C2971,50,106.77,Month-to-month,2,Yes
+C2972,34,38.16,Two year,7,No
+C2973,60,46.73,Month-to-month,7,Yes
+C2974,7,108.69,Two year,5,Yes
+C2975,44,86.85,Month-to-month,8,Yes
+C2976,38,54.4,Month-to-month,7,Yes
+C2977,5,78.77,One year,0,No
+C2978,51,43.36,Month-to-month,8,Yes
+C2979,19,82.56,One year,4,No
+C2980,59,88.28,Month-to-month,8,Yes
+C2981,6,25.81,One year,0,No
+C2982,13,56.96,Two year,1,No
+C2983,39,61.1,Month-to-month,2,No
+C2984,33,91.6,Two year,1,No
+C2985,56,116.45,Month-to-month,9,Yes
+C2986,39,80.79,Two year,3,No
+C2987,7,56.17,One year,3,No
+C2988,56,46.03,Two year,2,No
+C2989,6,79.67,Month-to-month,10,Yes
+C2990,1,59.53,Month-to-month,6,Yes
+C2991,36,45.24,Two year,10,No
+C2992,29,40.93,Two year,5,No
+C2993,37,92.27,Two year,7,No
+C2994,43,73.23,One year,8,No
+C2995,44,50.6,One year,2,No
+C2996,64,39.49,Two year,2,No
+C2997,33,59.1,Two year,9,No
+C2998,63,75.26,One year,1,No
+C2999,68,55.66,One year,5,No
+C3000,60,21.02,Two year,9,No

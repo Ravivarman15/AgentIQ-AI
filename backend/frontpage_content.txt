@@ -1,0 +1,85 @@
+=== FRONT PAGE PARAGRAPHS ===
+[Heading 2] VIRTUAL SUPPORT SYSTEM FOR EMOTIONAL WELLNESS
+[Normal] Project Report
+[Normal] by
+[Heading 2] PRAKRITHA P,
+[Heading 2] Enroll. No.TU6230102120017
+[Normal] Under the Guidanceof
+[Normal] C. SANTHOSH KUMAR., M.C.A., M.Phil., (Ph.D.,)
+[Body Text] Assistant Professor,
+[Body Text] School of Computer Science
+[Normal] in partial fulfillment of the requirements for the award of the degree
+[Heading 2] BACHELOR OF SCIENCE
+[Heading 2] in
+[Heading 2] COMPUTER SCIENCE
+[Normal] Submitted to the
+[Heading 2] SCHOOL OF COMPUTER SCIENCE
+[Normal] FACULTY OF SCIENCES
+[Heading 1] TAKSHASHILA UNIVERSITY
+[Normal] Ongur, Tindivanam.
+[Heading 2] APRIL 2026
+[Normal] TAKSHASHILA UNIVERSITY
+[Normal] FACULTY OF SCIENCES
+[Heading 2] SCHOOL OF COMPUTER SCIENCE
+[Normal] CERTIFICATE
+[Normal] This is to certify that the project entitled “VIRTUAL SUPPORT SYSTEM FOR EMOTIONAL WELLNESS” is a bonafide work of PRAKRITHA P, Enrollment Number: TU6230102120017, who carried out the project under my supervision in the partial fulfillment of the requirement for the degree of Bachelor of Science in Computer Science during the year 2025 - 2026. I further certify that the project work done by him/her has not previously formed the basis for the award to the candidate or to anyone else of any degree or any similar title.
+[Body Text] School Incharge					     Project Guide
+[Table Paragraph] Dr.T.VIJAYAKUMAR, MCA, Ph.D.,	C. SANTHOSH KUMAR, M.C.A., MPhil., (Ph.D.,)
+[Body Text] Assistant Professor					  Assistant Professor
+[Normal] Submitted to Viva-Voce examination held on
+[Normal] Internal Examiner	External Examiner
+[Normal] Place:Ongur
+[Normal] Date:
+[Normal] DECLARATION
+[Normal] I, PRAKRITHA P, hereby declare that my project entitled “VIRTUAL SUPPORT SYSTEM FOR EMOTIONAL WELLNESS” is done during 2025-2026 for the award of Bachelor of Computer Science in Computer Science under School of Computer Science of Takshashila University as a part of my curriculum.
+[Normal] I further declare that this project or a part of this project has not been submitted elsewhere for the award of any other degree.
+[Normal] Place: Ongur	PRAKRITHA P
+[Normal] Date:	(Reg., No.TU6230102120017)
+[Normal] ACKNOWLEDGEMENT
+[Normal] The successful completion of any task would be incomplete without mentioning the people who made it possible and whose constant guidance and encouragement to secured our success. I take privilege to express few words to gratitude and respect to all those who helps me in the completion of this project work.
+[Normal] I express my gratefulness to our most honourable Shri.M.Dhanasekaran, Chancellor, Dr.(Prof).Vivek Inder Kochhar, Vice-Chancellor, Dr.S.Senthil, Registrar, and Dr.R.Subramanian, Dean – Academic Affairs, for their sincere endeavor in educating us in their premier institution.
+[Normal] I express my sincere thanks to our respected Dr.S.Deepa, Dean, Faculty of Sciences, for motivating in completing the project.
+[Normal] I owe a great sense of gratitude to Dr.T.Vijayakumar, School Incharge, School of Computer Science, for timely and valuable suggestions during this project work.
+[Normal] I deem it a pleasant duty to place my sincere and heartfelt gratitude to my Guide Mr.C.Santhosh kumar, Assistant Professor, School of Computer Science, who is the source of inspiration and encouragement and provided unstinted guidance throughout this project work. I spontaneously hold in high esteem to all my faculty members, School of Computer Science, for bringing out this project successfully with their enthusiastic guidance and making all necessary arrangements.
+[Normal] At the outset I extend my deepest love and gratitude to My Parents and Family Members who have built my career and backed me in my difficulties.
+[Normal] I like to thank all My Friends and Well Wishers who have helped me by their valuable suggestions in completing this thesis successfully.
+[Normal] PRAKRITHA P
+[Normal] (Enrollment No.: TU6230102120017)
+[Heading 1] ABSTRACT
+[Normal (Web)] The Virtual Support System for Emotional Wellness is a web-based application designed to assist users in managing emotional imbalances and mood fluctuations through AI-driven analysis and personalized recommendations. In an era where emotional health is often compromised due to stress, social isolation, or lack of timely support, this system offers a proactive digital solution to promote mental well-being. Leveraging the capabilities of artificial intelligence, the application utilizes language processing models to interpret user-inputted mood data and generate contextually appropriate suggestions aimed at emotional improvement. These may include motivational prompts, mindfulness exercises, and mood-boosting activities. The system also tracks mood history and visualizes emotional trends over time, enabling users to gain deeper insights into their emotional patterns. Developed using HTML and CSS for the frontend, PHP for server-side scripting, and MySQL for secure data storage, the platform incorporates essential features such as user authentication, an interactive dashboard, progress tracking, and suggestion history. The integration of ChatGPT enhances the system’s ability to deliver dynamic, empathetic, and intelligent responses based on user context. Future upgrades will include a mobile-friendly version, voice assistant integration, push notifications for wellness reminders, and enhanced data privacy protocols. By merging emotional intelligence with modern web technologies, this project presents an innovative framework to support digital mental wellness, making emotional care more accessible, responsive, and personalized.
+
+=== FRONT PAGE TABLES ===
+
+Table 0:
+CONTENTS | CONTENTS | CONTENTS
+CHAPTER NO. | TITLE | PAGE NO.
+1 | INTRODUCTION | 
+ | 1.1. Background | 
+ | 1.2. Objectives | 
+ | 1.3. Purpose, Scope, and Applicability | 
+ | 1.4. Achievements | 
+ | 1.5. Organization of Report | 
+2 | SURVEY OF TECHNOLOGIES | 
+3 | REQUIREMENTS AND ANALYSIS | 
+ | 3.1. Problem Definition | 
+ | 3.2. Requirements Specification | 
+ | 3.3. Planning and Scheduling | 
+ | 3.4. Software and Hardware Requirements | 
+ | 3.5. Preliminary Product Description | 
+ | 3.6. Conceptual Models | 
+4 | SYSTEM DESIGN | 
+ | 4.1. Basic Modules | 
+ | 4.2. Data Design | 
+ | 4.3. Procedural Design | 
+ | 4.4. User interface design | 
+5 | IMPLEMENTATION AND TESTING | 
+ | 5.1. Implementation Approaches | 
+ | 5.2. Coding Details and Code Efficiency | 
+ | 5.3. Testing Approach | 
+6 | RESULTS AND DISCUSSION | 
+ | 6.1. Test Reports | 
+7 | CONCLUSIONS | 
+ | 7.1. Conclusion | 
+ | 7.2. Limitations of the System | 
+ | 7.3. Future Scope of the Project | 
+8 | REFERENCES | 

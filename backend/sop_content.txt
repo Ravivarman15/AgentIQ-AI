@@ -1,0 +1,52 @@
+=== SOP PARAGRAPHS ===
+[Normal] TAKSHASHILA UNIVERSITY
+[Normal] FORMAT FOR PREPARATION OF PROJECT REPORT FOR M.C.A.
+[Normal] ARRANGEMENT OF CONTENTS:
+[Normal] The sequence in which the project report material should be arranged and bound should be as follows:
+[Normal] Cover Page & Title Page
+[Normal] Bonafide Certificate
+[Normal] Abstract
+[Normal] Table of Contents
+[Normal] List of Tables
+[Normal] List of Figures
+[Normal] List of Symbols, Abbreviations and Nomenclature
+[Normal] Chapters
+[Normal] Appendices
+[Normal] References
+[Normal] The table and figures shall be introduced in the appropriate places.
+[Heading 6] PAGE DIMENSION AND BINDING SPECIFICATIONS:
+[Normal] The dimension of the project report should be in A4 size. The project report should be bound using a flexible cover of the thick white art paper. The cover should be printed in black letters and the text for printing should be identical.
+[Heading 6] PREPARATION FORMAT:
+[Normal] Cover Page & Title Page – A specimen copy of the Cover page & Title page of the project report are given in Appendix 1.
+[Normal] Bonafide Certificate – The Bonafide Certificate shall be in double line spacing using Font Style Times New Roman and Font Size 14, as per the format in Appendix 2.
+[Normal] The certificate shall carry the supervisor’s signature and shall be followed by the supervisor’s name, academic designation (not any other responsibilities of administrative nature),
+[Normal] department and full address of the institution where the supervisor has guided the student. The term ‘Project Guide’ must be typed in capital letters between the supervisor’s name and academic designation.
+[Normal] Abstract – Abstract should be one-page synopsis of the project report typed double line spacing, Font Style Times New Roman and Font Size 12.
+[Normal] Table of Contents – The table of contents should list all material following it as well as any material which precedes it. The title page and Bonafide Certificate will not find a place among the items listed in the Table of Contents but the page numbers of which are in lower case Roman letters. One and a half spacing should be adopted for typing the matter under this head. A specimen copy of the Table of Contents of the project report is given in Appendix 3.
+[Normal] List of Tables – The list should use exactly the same captions as they appear above the tables in the text. One and a half spacing should be adopted for typing the matter under this head.
+[Normal] List of Figures – The list should use exactly the same captions as they appear below the figuresin the text.Oneand a halfspacing should be adopted fortyping the matter under this head.
+[Normal] List of Symbols, Abbreviations and Nomenclature – One and a half spacing should be adoptedor typingthe matter under thishead. Standard symbols, abbreviations etc. should be used.
+[Normal] Chapters– The chapters may be broadly divided into 3 parts (i) Introductory chapter, (ii) Chapters developing the main theme of the project work (iii) and Conclusion.
+[Normal] The main text will be divided into several chapters and each chapter may be further divided into several divisions and sub-divisions.
+[Normal] Each chapter should be given an appropriate title, with center alignment and font size 16.
+[Normal] The content should be with font size 12 and aligned as justify, line spacing 1.5.
+[Normal] The headings should be with font size 14.
+[Normal] Tables and figures in a chapter should be placed in the immediate vicinity of the reference where they are cited.
+[Normal] Footnotes should be used sparingly. They should be typed single space and placed directly underneath in the very same page, which refers to the material they annotate.
+[Normal] Appendices – Appendices are provided to give supplementary information, which is included in the main text may serve as a distraction and cloud the central theme.
+[Normal] Appendices should be numbered using Arabic numerals, e.g. Appendix 1, Appendix 2, etc.
+[Normal] Appendices, Tables and References appearing in appendices should be numbered and referred to at appropriate places just as in the case of chapters.
+[Normal] Appendices shall carry the title of the work reported and the same title shall be made in the contents page also.
+[Normal] List of References –The listing of references should be typed 4 spaces below the heading “REFERENCES” in alphabetical order in single spacing left – justified. The reference material should be listed in the alphabetical order of the first author. The name of the author/authors should be immediately followed by the year and other details.
+[Normal] A typical illustrative list given below relates to the citation example quoted above.
+[Heading 6] REFERENCES
+[Normal] Ariponnammal, S. and Natarajan, S. (1994) ‘Transport Phonomena of Sm Sel – X Asx’, Pramana – Journal of Physics Vol.42, No.1, pp.421-425.
+[Normal] Barnard, R.W. and Kellogg, C. (1980) ‘Applications of Convolution Operators to Problemsin Univalent Function Theory’, Michigan Mach, J., Vol.27, pp.81–94.
+[Normal] Shin, K.G. and Mckay, N.D. (1984) ‘Open Loop Minimum Time Control of Mechanical Manipulationsandits Applications’, Proc.Amer.Contr.Conf.,SanDiego, CA, pp. 1231-1236.
+[Normal] Table and figures - By the word Table, is meant tabulated numerical data in the body of the project report as well as in the appendices. All other non-verbal materials used in the body of the project work and appendices such as charts, graphs, maps, photographs and diagrams may be designated as figures.
+[Heading 6] TYPING INSTRUCTIONS:
+[Normal] The impression on the typed copies should be black in colour.
+[Normal] One and a half spacing should be used for typing the general text. The general text shall be typed in the Font style ‘TimesNew Roman’ and Font size 12.
+[Normal] *****
+
+=== SOP TABLES ===
