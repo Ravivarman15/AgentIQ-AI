@@ -5,8 +5,7 @@ import { UserPlus, Mail, Database, ArrowLeft, Loader2, Lock } from "lucide-react
 import Link from "next/link";
 import axios from "axios";
 import { useRouter } from "next/navigation";
-
-const API_BASE = "http://127.0.0.1:8000";
+import { API_BASE } from "@/services/api";
 
 export default function RegisterPage() {
     const [email, setEmail] = useState("");

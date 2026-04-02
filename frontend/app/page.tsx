@@ -11,8 +11,7 @@ import remarkGfm from "remark-gfm";
 import Link from "next/link";
 import DynamicChart from "@/components/DynamicChart";
 import LandingSections from "@/components/LandingSections";
-
-const API_BASE = "http://127.0.0.1:8000";
+import { API_BASE } from "@/services/api";
 
 export default function Home() {
   const router = useRouter();

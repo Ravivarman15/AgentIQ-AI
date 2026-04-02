@@ -5,8 +5,7 @@ import { LogIn, Github, Mail, Database, ArrowLeft, Loader2 } from "lucide-react"
 import Link from "next/link";
 import axios from "axios";
 import { useRouter } from "next/navigation";
-
-const API_BASE = "http://127.0.0.1:8000";
+import { API_BASE } from "@/services/api";
 
 export default function LoginPage() {
     const [email, setEmail] = useState("");
