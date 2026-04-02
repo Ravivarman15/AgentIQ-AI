@@ -1,0 +1,44 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGENTIQ AI — Render Blueprint (must live at repo root)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+services:
+  - type: web
+    name: agentiq-backend
+    runtime: docker
+    rootDir: backend
+    dockerfilePath: backend/Dockerfile
+    dockerContext: backend
+    region: oregon
+    plan: starter
+    autoDeploy: true
+    healthCheckPath: /
+    envVars:
+      - key: HUGGINGFACEHUB_API_TOKEN
+        sync: false
+      - key: HF_MODEL_REPO
+        value: meta-llama/Meta-Llama-3-8B-Instruct
+      - key: EMBEDDING_MODEL
+        value: sentence-transformers/all-MiniLM-L6-v2
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_ANON_KEY
+        sync: false
+      - key: SUPABASE_DB_HOST
+        sync: false
+      - key: SUPABASE_DB_PASSWORD
+        sync: false
+      - key: SUPABASE_DB_USER
+        value: postgres
+      - key: SUPABASE_DB_PORT
+        value: "5432"
+      - key: SUPABASE_DB_NAME
+        value: postgres
+      - key: SECRET_KEY
+        generateValue: true
+      - key: CORS_ORIGINS
+        sync: false
+      - key: PORT
+        value: "10000"
+      - key: DEBUG
+        value: "false"

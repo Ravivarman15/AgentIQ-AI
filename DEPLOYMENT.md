@@ -4,12 +4,16 @@ Follow these steps to deploy the AGENTIQ AI project to production.
 
 ## 1. Backend Deployment (Render)
 
-Render will use the `render.yaml` file in the `backend/` directory to automatically configure your service.
+Render will use the `render.yaml` file at the **repository root** to automatically configure your service.
+
+> [!IMPORTANT]
+> The `render.yaml` must be at the repo root — Render Blueprints do not scan subdirectories.
+> The Dockerfile uses **Python 3.11** to ensure compatibility with PyCaret and scikit-learn.
 
 1.  **Log in to [Render](https://render.com/)**.
 2.  Click **New +** > **Blueprint**.
 3.  Connect your GitHub repository.
-4.  Render will detect the `backend/render.yaml` file. Review the service details.
+4.  Render will detect the `render.yaml` at the repo root. Review the service details.
 5.  **Environment Variables:** You will be prompted to provide values for the following variables:
     *   `HUGGINGFACEHUB_API_TOKEN`: Your HuggingFace API token.
     *   `SUPABASE_URL`: Your Supabase project URL.
