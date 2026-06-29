@@ -39,17 +39,14 @@ JWT_ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES", "1440"))  # 24h
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# SUPABASE / DATABASE
+# DATABASE (SQLite — fully local, zero config)
 # ═══════════════════════════════════════════════════════════════════════════════
-SUPABASE_URL = os.getenv("SUPABASE_URL", "")
-SUPABASE_ANON_KEY = os.getenv("SUPABASE_ANON_KEY", "")
-SUPABASE_DB_HOST = os.getenv("SUPABASE_DB_HOST", "")
-SUPABASE_DB_PASSWORD = os.getenv("SUPABASE_DB_PASSWORD", "")
-SUPABASE_DB_USER = os.getenv("SUPABASE_DB_USER", "postgres")
-SUPABASE_DB_PORT = os.getenv("SUPABASE_DB_PORT", "5432")
-SUPABASE_DB_NAME = os.getenv("SUPABASE_DB_NAME", "postgres")
-DATABASE_URL = os.getenv("DATABASE_URL", "")
-SUPABASE_DB_URL = os.getenv("SUPABASE_DB_URL", "")
+SQLITE_DB_PATH = os.getenv("SQLITE_DB_PATH", "agentiq.db")
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# VECTOR DATABASE (ChromaDB — local persistent storage)
+# ═══════════════════════════════════════════════════════════════════════════════
+CHROMA_DB_DIR = os.getenv("CHROMA_DB_DIR", "./chroma_db")
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # HUGGINGFACE / LLM

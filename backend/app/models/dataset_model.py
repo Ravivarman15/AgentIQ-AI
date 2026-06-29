@@ -11,10 +11,10 @@ from app.models.database import Base
 class Dataset(Base):
     __tablename__ = "datasets"
     id = Column(Integer, primary_key=True, index=True)
-    name = Column(String(255), index=True)
-    file_path = Column(String(512))
-    sample_path = Column(String(512))
-    industry = Column(String(100))
+    name = Column(String, index=True)
+    file_path = Column(String)
+    sample_path = Column(String)
+    industry = Column(String)
     user_id = Column(Integer, ForeignKey("users.id"))
     created_at = Column(DateTime, default=datetime.utcnow)
     is_demo = Column(Boolean, default=False)

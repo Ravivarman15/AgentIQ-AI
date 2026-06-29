@@ -4,11 +4,7 @@ Validates required environment variables at startup.
 """
 
 import sys
-from app.config.settings import (
-    SECRET_KEY, SUPABASE_URL, SUPABASE_ANON_KEY,
-    HUGGINGFACEHUB_API_TOKEN, SUPABASE_DB_HOST, SUPABASE_DB_PASSWORD,
-    SUPABASE_DB_URL, DATABASE_URL
-)
+from app.config.settings import SECRET_KEY, HUGGINGFACEHUB_API_TOKEN
 
 
 def validate_environment():
@@ -26,18 +22,6 @@ def validate_environment():
     # HuggingFace
     if not HUGGINGFACEHUB_API_TOKEN:
         errors.append("HUGGINGFACEHUB_API_TOKEN is required for LLM & embedding operations.")
-
-    # Database — at least one connection method must be configured
-    has_components = bool(SUPABASE_DB_HOST and SUPABASE_DB_PASSWORD)
-    has_full_url = bool(SUPABASE_DB_URL)
-    has_legacy_url = bool(DATABASE_URL)
-
-    if not (has_components or has_full_url or has_legacy_url):
-        warnings.append(
-            "No database connection configured. Falling back to SQLite. "
-            "Set SUPABASE_DB_HOST + SUPABASE_DB_PASSWORD, or SUPABASE_DB_URL, "
-            "or DATABASE_URL for production."
-        )
 
     # Print results
     for w in warnings:
